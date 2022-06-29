@@ -113,5 +113,10 @@
     "UserName": "dfs",
     "CountRightAnswers": 5,
     "FinalDiagnosis": "гений"
+  },
+  {
+    "UserName": "Влад",
+    "CountRightAnswers": 5,
+    "FinalDiagnosis": "гений"
   }
 ]
