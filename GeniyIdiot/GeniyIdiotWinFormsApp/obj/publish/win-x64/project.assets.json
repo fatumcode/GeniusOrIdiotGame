@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "GeniyIdiotClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GeniyIdiotClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeniyIdiotClassLibrary.dll": {}
+        }
+      }
+    },
+    "net6.0-windows7.0/win-x64": {
+      "GeniyIdiotClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GeniyIdiotClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GeniyIdiotClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeniyIdiotClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../GeniyIdiotClassLibrary/GeniyIdiotClassLibrary.csproj",
+      "msbuildProject": "../GeniyIdiotClassLibrary/GeniyIdiotClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "GeniyIdiotClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shopt\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotWinFormsApp\\GeniyIdiotWinFormsApp.csproj",
+      "projectName": "GeniyIdiotWinFormsApp",
+      "projectPath": "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotWinFormsApp\\GeniyIdiotWinFormsApp.csproj",
+      "packagesPath": "C:\\Users\\Shopt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotWinFormsApp\\obj\\publish\\win-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Shopt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotClassLibrary\\GeniyIdiotClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotClassLibrary\\GeniyIdiotClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

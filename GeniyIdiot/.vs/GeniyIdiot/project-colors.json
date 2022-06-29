@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70d05e8f-8478-49df-9e39-d40530412d8a": {
+      "ProjectGuid": "70d05e8f-8478-49df-9e39-d40530412d8a",
+      "DisplayName": "GeniyIdiotConsoleApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "87ad5ff0-c9f5-47f5-93c1-9ddce56fec65": {
+      "ProjectGuid": "87ad5ff0-c9f5-47f5-93c1-9ddce56fec65",
+      "DisplayName": "GeniyIdiotWindowsFormsApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

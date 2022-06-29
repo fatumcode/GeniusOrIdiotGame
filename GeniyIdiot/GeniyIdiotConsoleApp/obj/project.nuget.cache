@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWawoCltYAkK0GdIxtRd3DAHpSwzSwKUHJoOoj6Bl0GnvihsbhJ13DNOyWuH3pN7TARlG13WgWz3AoyvDPIg2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shopt\\Source\\Repos\\GeniusOrIdiotGame\\GeniyIdiot\\GeniyIdiotConsoleApp\\GeniyIdiotConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shopt\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

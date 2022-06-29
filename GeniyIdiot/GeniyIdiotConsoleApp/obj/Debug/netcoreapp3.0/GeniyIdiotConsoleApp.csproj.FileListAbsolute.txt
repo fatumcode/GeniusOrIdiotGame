@@ -1,0 +1,5 @@
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\netcoreapp3.0\GeniyIdiotConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\netcoreapp3.0\GeniyIdiotConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\netcoreapp3.0\GeniyIdiotConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\netcoreapp3.0\GeniyIdiotConsoleApp.AssemblyInfo.cs
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\netcoreapp3.0\GeniyIdiotConsoleApp.csproj.CoreCompileInputs.cache

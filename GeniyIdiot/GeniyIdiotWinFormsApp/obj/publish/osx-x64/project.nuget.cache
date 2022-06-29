@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ruAOlDMadgWDK5DFGMCF3CMJo39sBanSMAKeJE4e97z1WA/jlrWFj8y/AM/jKuOo49kP6awxb2TDbCTTwV2lyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shopt\\Source\\Repos\\OnlineCourse9Stream\\GeniyIdiot\\GeniyIdiotWinFormsApp\\GeniyIdiotWinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shopt\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\6.0.5\\microsoft.netcore.app.host.osx-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

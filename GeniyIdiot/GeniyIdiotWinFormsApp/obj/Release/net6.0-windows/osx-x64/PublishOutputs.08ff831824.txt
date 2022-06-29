@@ -1,0 +1,7 @@
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotWinFormsApp
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotWinFormsApp.dll
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotWinFormsApp.deps.json
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotWinFormsApp.runtimeconfig.json
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotWinFormsApp.pdb
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotClassLibrary.dll
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotWinFormsApp\bin\Release\net6.0-windows\publish\osx-x64\GeniyIdiotClassLibrary.pdb

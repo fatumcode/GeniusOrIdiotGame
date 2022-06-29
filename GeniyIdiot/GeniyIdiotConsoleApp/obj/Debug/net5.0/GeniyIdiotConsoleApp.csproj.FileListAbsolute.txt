@@ -1,0 +1,16 @@
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.exe
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.deps.json
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.runtimeconfig.json
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.runtimeconfig.dev.json
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.dll
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\bin\Debug\net5.0\GeniyIdiotConsoleApp.pdb
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.AssemblyInfo.cs
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.dll
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\ref\GeniyIdiotConsoleApp.dll
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.pdb
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\GeniyIdiotConsoleApp.genruntimeconfig.cache
+C:\Users\Shopt\Source\Repos\OnlineCourse9Stream\GeniyIdiot\GeniyIdiotConsoleApp\obj\Debug\net5.0\refint\GeniyIdiotConsoleApp.dll

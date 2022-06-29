@@ -1,0 +1,47 @@
+﻿[
+  {
+    "UserName": "Влад",
+    "CountRightAnswers": 7,
+    "FinalDiagnosis": "гений"
+  },
+  {
+    "UserName": "Влад",
+    "CountRightAnswers": 2,
+    "FinalDiagnosis": "идиот"
+  },
+  {
+    "UserName": "Dkfl",
+    "CountRightAnswers": 5,
+    "FinalDiagnosis": "талант"
+  },
+  {
+    "UserName": "Влад",
+    "CountRightAnswers": 4,
+    "FinalDiagnosis": "нормальный"
+  },
+  {
+    "UserName": "dkfl",
+    "CountRightAnswers": 2,
+    "FinalDiagnosis": "идиот"
+  },
+  {
+    "UserName": "впап",
+    "CountRightAnswers": 2,
+    "FinalDiagnosis": "идиот"
+  },
+  {
+    "UserName": "ВЛад",
+    "CountRightAnswers": 2,
+    "FinalDiagnosis": "идиот"
+  },
+  {
+    "UserName": "Влад",
+    "CountRightAnswers": 1,
+    "FinalDiagnosis": "идиот"
+  },
+  {
+    "UserName": "влад",
+    "CountRightAnswers": 6,
+    "FinalDiagnosis": "гений"
+  }
+]
